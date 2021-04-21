@@ -1,1 +1,1 @@
-# k-site
+# K-site - первый сайт обо мне. HTML Academy
